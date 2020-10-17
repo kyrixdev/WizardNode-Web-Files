@@ -1,0 +1,7 @@
+.vps-features > .feature{
+    display: flex;
+    flex-flow: wrap;
+    padding: 1rem;
+    height: auto;
+}    
+    
