@@ -8,9 +8,9 @@ include('header.php');
 <a href="#services"><button type="button" class="btn btn-light solution-btn"><i class="fas fa-boxes"></i>Solutions</button></a>
 <a href="billing.wizardnode.com/contact.php"><button type="button" class="btn btn-light contact-btn"><i class="fas fa-phone-alt"></i>Contact Us</button></a>
 </div>
-<img src="img/float-img.svg" class="svg">
+<img src="img/cloud.png" class="svg animated">
 </div>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#420f52" fill-opacity="1" d="M0,256L120,234.7C240,213,480,171,720,170.7C960,171,1200,213,1320,234.7L1440,256L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#be73c1" fill-opacity="1" d="M0,256L120,234.7C240,213,480,171,720,170.7C960,171,1200,213,1320,234.7L1440,256L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
 <section class="services jum-bg-2 pt-7" id="services">
 <div class="container-fluid">
 <div class="row" style="padding-bottom:3rem;">
@@ -81,7 +81,7 @@ include('header.php');
 </service>
 <service class="Entreprise-section ar-bg pb-5">
 <div class="container entreprise" style="">
-<div class="col-6 col-lg-4">
+<div class="col-12 col-lg-4">
 <img src="img/data-secure.png" class="svg2">
 </div>
 <div class="col-sm-6 col-lg-8 padtop-x">
@@ -105,13 +105,13 @@ include('header.php');
 </article>
 </div>
 <div class="col-xs-12 col-md-6">
-<div style="display: flex;">
+<div style="display: flex;flex-flow: wrap-reverse;">
 <div class="hm-new-sgnup-prc-ctaBox">
-<a href="https://platform.cloudways.com/signup" class="btn btn-light contact-btn mr-3" style="background: #179063 !important;">START YOUR FREE TRIAL</a>
+<a href="https://platform.cloudways.com/signup" class="btn contact-btn btn-block" style="background: #eb4c83 !important;">START YOUR FREE TRIAL</a>
 <p>No credit card required</p>
 </div>
 <div class="hm-new-sgnup-prc-ctaBox">
-<a href="index.php#" class="btn btn-light solution-btn" target="_blank">
+<a href="index.php#" class="btn solution-btn btn-block ml-3" target="_blank">
 See All Plans
 </a>
 </div>
@@ -134,45 +134,45 @@ See All Plans
 </div>
 <div class="supp-textbox">
 <h4>Knowledgebase</h4>
-<p>Here are our docs for support</p>
-<a href="#">Read More</a>
+<p class="text-muted ">Here are our docs for support</p>
+<a href="https://billing.wizardnode.com/knowledgebase" class="supp-text">Read More <i class="fas fa-long-arrow-alt-right"></i></a>
 </div>
 </div>
 <div class="col-sm-4 supp-box  mr-4 mb-4">
 <div class="supp-img">
-<img src="https://www.flaticon.com/svg/static/icons/svg/545/545234.svg" class="">
+<img src="https://www.flaticon.com/svg/static/icons/svg/916/916935.svg" class="">
 </div>
 <div class="supp-textbox">
 <h4>FAQ</h4>
-<p>Here are our docs for support</p>
-<a href="#">Read More</a>
+<p class="text-muted">Here are our docs for support</p>
+<a href="#" class="supp-text">Read More <i class="fas fa-long-arrow-alt-right"></i></a>
 </div>
 </div>
 </div>
 <div class="supp-boxes">
 <div class="col-sm-4 supp-box  mr-4 mb-4">
 <div class="supp-img">
-<img src="https://www.flaticon.com/svg/static/icons/svg/545/545234.svg" class="">
+<img src="https://www.flaticon.com/svg/static/icons/svg/2950/2950777.svg" class="">
 </div>
 <div class="supp-textbox">
 <h4>Live Support</h4>
-<p>Here are our docs for support</p>
-<a href="#">Read More</a>
+<p class="text-muted">Here are our docs for support</p>
+<a href="#" class="supp-text">Read More <i class="fas fa-long-arrow-alt-right"></i></a>
 </div>
 </div>
 <div class="col-sm-4 supp-box  mr-4 mb-4">
 <div class="supp-img">
-<img src="https://www.flaticon.com/svg/static/icons/svg/545/545234.svg" class="">
+<img src="https://www.flaticon.com/svg/static/icons/svg/2942/2942934.svg" class="">
 </div>
 <div class="supp-textbox">
 <h4>Tickets</h4>
-<p>Here are our docs for support</p>
-<a href="#">Read More</a>
+<p class="text-muted">Here are our docs for support</p>
+<a href="#" class="supp-text">Read More <i class="fas fa-long-arrow-alt-right"></i></a>
 </div>
 </div>
 </div>
 </div>
-<div class="col-6 col-lg-4" style="display: block;margin: auto 0;">
+<div class="col-12 col-lg-4" style="display: block;margin: auto 0;">
 <img src="https://image.freepik.com/free-vector/get-touch-concept-illustration_114360-2726.jpg" class="svg2">
 </div>
 </div>

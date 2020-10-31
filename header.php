@@ -29,7 +29,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no, user-scalable=0" />
-    <link rel="icon" href="img/icon.png">
+<link rel="icon" href="img/icon.png">
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -48,7 +48,7 @@
 </head>
 <body id="body">
 <header>
-    <img class="nav-background" src="img/header3.png">
+   <!-- <img class="nav-background" src="img/header3.png"> -->
     <nav class="navbar navbar-expand-lg navbar-light">
     <img class="navbar-brand" href="#" src="img/wizardnode-logo.png">
     <div class="collapse navbar-collapse show" id="navbarNav">
@@ -77,7 +77,7 @@
             <a class="nav-link" href="#">Support Area</a>
         </li>
         <li class="nav-item" style='padding: 5px;'>
-             <a href="https://billing.wizardnode.com"><button type="button" class="btn btn-light global-btn"><i class="fas fa-user-circle"></i>Client Area</button></a>
+             <a href="https://billing.wizardnode.com"><button type="button" class="btn btn-purple global-btn"><i class="fas fa-user-circle"></i>Client Area</button></a>
         </li>
         </ul>
     </div>

@@ -1,6 +1,6 @@
 :root {
     /* --main-bg-color: #5000ca; */
-    --main-bg-color: #420f52;
+    --main-bg-color: #be73c1;
   }
 *{
     margin: 0;
@@ -394,14 +394,14 @@ footer{
 }
 .jum-bg{
     color: #fff;
-    background-color: #420f52 !important;
+    background-color: #be73c1 !important;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3CradialGradient id='a' gradientUnits='objectBoundingBox'%3E%3Cstop offset='0' stop-color='%23000000'/%3E%3Cstop offset='1' stop-color='%23420f52'/%3E%3C/radialGradient%3E%3ClinearGradient id='b' gradientUnits='userSpaceOnUse' x1='0' y1='750' x2='1550' y2='750'%3E%3Cstop offset='0' stop-color='%23210829'/%3E%3Cstop offset='1' stop-color='%23420f52'/%3E%3C/linearGradient%3E%3Cpath id='s' fill='url(%23b)' d='M1549.2 51.6c-5.4 99.1-20.2 197.6-44.2 293.6c-24.1 96-57.4 189.4-99.3 278.6c-41.9 89.2-92.4 174.1-150.3 253.3c-58 79.2-123.4 152.6-195.1 219c-71.7 66.4-149.6 125.8-232.2 177.2c-82.7 51.4-170.1 94.7-260.7 129.1c-90.6 34.4-184.4 60-279.5 76.3C192.6 1495 96.1 1502 0 1500c96.1-2.1 191.8-13.3 285.4-33.6c93.6-20.2 185-49.5 272.5-87.2c87.6-37.7 171.3-83.8 249.6-137.3c78.4-53.5 151.5-114.5 217.9-181.7c66.5-67.2 126.4-140.7 178.6-218.9c52.3-78.3 96.9-161.4 133-247.9c36.1-86.5 63.8-176.2 82.6-267.6c18.8-91.4 28.6-184.4 29.6-277.4c0.3-27.6 23.2-48.7 50.8-48.4s49.5 21.8 49.2 49.5c0 0.7 0 1.3-0.1 2L1549.2 51.6z'/%3E%3Cg id='g'%3E%3Cuse href='%23s' transform='scale(0.12) rotate(60)'/%3E%3Cuse href='%23s' transform='scale(0.2) rotate(10)'/%3E%3Cuse href='%23s' transform='scale(0.25) rotate(40)'/%3E%3Cuse href='%23s' transform='scale(0.3) rotate(-20)'/%3E%3Cuse href='%23s' transform='scale(0.4) rotate(-30)'/%3E%3Cuse href='%23s' transform='scale(0.5) rotate(20)'/%3E%3Cuse href='%23s' transform='scale(0.6) rotate(60)'/%3E%3Cuse href='%23s' transform='scale(0.7) rotate(10)'/%3E%3Cuse href='%23s' transform='scale(0.835) rotate(-40)'/%3E%3Cuse href='%23s' transform='scale(0.9) rotate(40)'/%3E%3Cuse href='%23s' transform='scale(1.05) rotate(25)'/%3E%3Cuse href='%23s' transform='scale(1.2) rotate(8)'/%3E%3Cuse href='%23s' transform='scale(1.333) rotate(-60)'/%3E%3Cuse href='%23s' transform='scale(1.45) rotate(-30)'/%3E%3Cuse href='%23s' transform='scale(1.6) rotate(10)'/%3E%3C/g%3E%3C/defs%3E%3Cg transform='rotate(0 0 0)'%3E%3Cg transform='rotate(0 0 0)'%3E%3Ccircle fill='url(%23a)' r='3000'/%3E%3Cg opacity='0.5'%3E%3Ccircle fill='url(%23a)' r='2000'/%3E%3Ccircle fill='url(%23a)' r='1800'/%3E%3Ccircle fill='url(%23a)' r='1700'/%3E%3Ccircle fill='url(%23a)' r='1651'/%3E%3Ccircle fill='url(%23a)' r='1450'/%3E%3Ccircle fill='url(%23a)' r='1250'/%3E%3Ccircle fill='url(%23a)' r='1175'/%3E%3Ccircle fill='url(%23a)' r='900'/%3E%3Ccircle fill='url(%23a)' r='750'/%3E%3Ccircle fill='url(%23a)' r='500'/%3E%3Ccircle fill='url(%23a)' r='380'/%3E%3Ccircle fill='url(%23a)' r='250'/%3E%3C/g%3E%3Cg transform='rotate(0 0 0)'%3E%3Cuse href='%23g' transform='rotate(10)'/%3E%3Cuse href='%23g' transform='rotate(120)'/%3E%3Cuse href='%23g' transform='rotate(240)'/%3E%3C/g%3E%3Ccircle fill-opacity='0.1' fill='url(%23a)' r='3000'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") !important;
     background-attachment: fixed !important;
     background-size: cover !important;
 }
 .jum-bg-2{
     color: #fff;
-    background-color: #420f52 !important;
+    background-color: #be73c1 !important;
     background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat-back.svg') !important;
     background-attachment: fixed !important;
     background-position: center !important;
@@ -441,6 +441,9 @@ footer{
     }
     .features{
         padding: 0rem;
+    }
+    .svg2{
+        width: 100%;
     }
     .svg-vps{
         margin: 0 auto;
@@ -535,8 +538,9 @@ footer{
     .global-btn{
         padding: 1px 5px !important;
     }
-    .Entreprise-section{
-        display: none;
+    .entreprise-p{
+        padding-left: 0 !important;
+        padding-top: 10px;
     }
     .w-5 {
         width: 78%!important;
@@ -1572,7 +1576,7 @@ blockquote {
 .hm-new-sgnup-prc-cta-sec {
     color: #fff;
     padding: 80px 0;
-    background: url(//www.cloudways.com/wp-content/themes/cw_multilingual/template/assets/css/widget/../../img/home/bottom-cta-right.png) no-repeat top right,url(//www.cloudways.com/wp-content/themes/cw_multilingual/template/assets/css/widget/../../img/home/bottom-cta-left.png) no-repeat top left #643477;
+    background: url(//www.cloudways.com/wp-content/themes/cw_multilingual/template/assets/css/widget/../../img/home/bottom-cta-right.png) no-repeat top right,url(//www.cloudways.com/wp-content/themes/cw_multilingual/template/assets/css/widget/../../img/home/bottom-cta-left.png) no-repeat top left #be73c1;
 }
 .p-color{
     color: #0a1e43;
@@ -1593,8 +1597,200 @@ blockquote {
     box-shadow: 3px 3px 9px 0px #ffd6e8;
     border: 1px solid;
     border-color: #dedede;
-    padding: 2rem;
+    padding: 1rem;
 }
 .supp-img img{
     width: 25%;
+}
+.supp-text{
+    color:  #0a1e43;
+}
+.supp-text:hover{
+    color:  #0a1e43;
+}
+.btn-purple {
+    background-color: #ea4ac5!important;
+    border-color: #ea4ac5!important;
+}
+.animated{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+.about-img{
+    display: block;
+    margin: 0 auto;
+    width: 33%;
+    margin-bottom: -7rem;
+}
+.px-7{
+    padding: 0 35rem;
+}
+.info-box {
+    color: #ab5c95;
+    text-align: center;
+    box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+    padding: 20px 42px 30px 42px;
+    background: #fff;
+}
+  
+.info-box i {
+    font-size: 32px;
+    color: #ab5c95;
+    padding: 8px;
+}
+  
+.info-box h3 {
+    font-size: 20px;
+    color: #3e3b3b;
+    font-weight: 700;
+    margin: 10px 0;
+}
+  
+.info-box p {
+    padding: 0;
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+  
+.php-email-form {
+    box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+    padding: 30px;
+    background: #fff;
+}
+  
+.php-email-form .validate {
+    display: none;
+    color: red;
+    margin: 0 0 15px 0;
+    font-weight: 400;
+    font-size: 13px;
+}
+  
+.php-email-form .error-message {
+    display: none;
+    color: #fff;
+    background: #ed3c0d;
+    text-align: left;
+    padding: 15px;
+    font-weight: 600;
+}
+  
+.php-email-form .error-message br + br {
+    margin-top: 25px;
+}
+  
+.php-email-form .sent-message {
+    display: none;
+    color: #fff;
+    background: #18d26e;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+}
+  
+.contact .php-email-form .loading {
+    display: none;
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+}
+  
+.contact .php-email-form .loading:before {
+    content: "";
+    display: inline-block;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    margin: 0 10px -6px 0;
+    border: 3px solid #18d26e;
+    border-top-color: #eee;
+    -webkit-animation: animate-loading 1s linear infinite;
+    animation: animate-loading 1s linear infinite;
+}
+  
+.contact .php-email-form input, .contact .php-email-form textarea {
+    border-radius: 5px;
+    box-shadow: none;
+    font-size: 14px;
+}
+  
+.contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
+    border-color: #8ea5ca;
+}
+  
+.contact .php-email-form input {
+    padding: 20px 15px;
+}
+  
+.contact .php-email-form textarea {
+    padding: 12px 15px;
+}
+  
+.contact .php-email-form button[type="submit"] {
+    background: #3b4ef8;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 5px;
+}
+  
+.php-email-form button[type="submit"]:hover {
+    background: #0a22f6;
+}
+  
+@-webkit-keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+}
+  
+@keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+}
+.member {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.member .pic {
+    overflow: hidden;
+    text-align: center;
+}
+.member .pic img {
+    max-width: 100%;
+}
+.member .details {
+    background: #eb4c83;
+    color: #fff;
+    padding: 15px;
+    border-radius: 0 0 3px 3px;
+}
+.member h4 {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 18px;
+}
+.member span {
+    font-style: italic;
+    display: block;
+    font-size: 13px;
+}
+.member .social {
+    margin-top: 5px;
+}
+.member .social a {
+    color: #fff;
+}
+.member .social i {
+    font-size: 16px;
+    margin: 0 2px;
 }

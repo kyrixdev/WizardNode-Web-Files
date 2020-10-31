@@ -133,7 +133,7 @@ include('header.php');
 </div>
 </section>
 <section id="features" class="web-features py-5 mt-5">
-<h1 class="text-center">OUR FEATURES</h1>
+<h1 class="text-center p-color">OUR FEATURES</h1>
 <div class="container">
 <div class="row" style="background-color: #6f636300;">
 <div class="col-md-4 col-12">
@@ -162,7 +162,7 @@ Our web hosting supports a large variety of modern languages for web application
 </div>
 </div>
 <div class="more-f py-5">
-<h3 class="text-center">We have more...</h3>
+<h3 class="text-center p-color">We have more...</h3>
 <p class="lead text-center">All of our web Hosting packages comes with.</p>
 <div class="container row row-grid align-items-center" style="background-color: #6f636300;">
 <div class="col-md-6 order-md-1">
@@ -189,7 +189,7 @@ Our web hosting supports a large variety of modern languages for web application
 <div class="icon icon-lg icon-shape icon-shape-info shadow rounded-circle mb-3 d-xs-none">
 <i class="fas fa-truck-loading"></i>
 </div>
-<h3>Migrate With Us</h3>
+<h3 class=" data-text ml-3 font-weight-bold p-color">Migrate With Us</h3>
 <p>
 We've designed our VPS hosting to have everything that a system administrator will need, and more. Choose us to help make running your applications more fun, affordable and more simple.
 </p>

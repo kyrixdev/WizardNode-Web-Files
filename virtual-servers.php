@@ -12,7 +12,7 @@ include('header.php');
 </div>
 <section id="features" class="vps-features">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-<path fill="#420f52" fill-opacity="1" d="M0,256L120,234.7C240,213,480,171,720,170.7C960,171,1200,213,1320,234.7L1440,256L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
+<path fill="#be73c1" fill-opacity="1" d="M0,256L120,234.7C240,213,480,171,720,170.7C960,171,1200,213,1320,234.7L1440,256L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
 <div class="jumbotron jumbotron-fluid jum-bg-2">
 <div class="container text-center">
 <h1 class="display-5">OUR FEATURES</h1>
@@ -68,7 +68,7 @@ include('header.php');
 </section>
 <section id="prices" class="py-5">
 <div class="container">
-<h1 class="display-5 text-center">OUR PRICES</h1>
+<h1 class="display-5 text-center p-color">OUR PRICES</h1>
 <p class="lead text-center">Click to buy</p>
 
 <div class="row mt-5" style="background: #fff;">
@@ -309,7 +309,7 @@ include('header.php');
 </div>
 </div>
 </section>
-<section class="faq py-5 accordion-section clearfix mt-3" aria-label="Question Accordions">
+<section class="faq pt-5 accordion-section clearfix mt-3" aria-label="Question Accordions">
 <div class="container">
 <div class="row row-grid align-items-center" style="background-color: transparent;">
 <div class="col-md-6 order-md-2">
@@ -342,7 +342,7 @@ Every one of our VPS servers are powered by AMD Ryzen 3900X CPUs to unleash the 
 </div>
 </div>
 </div>
-<div class="container-fluid jum-bg-2 mt-5 mb-5">
+<div class="container-fluid jum-bg-2 mt-5">
 <div class="container pb-5">
 <h2 class="text-center py-2">Frequently Asked Questions </h2>
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
