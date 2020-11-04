@@ -128,8 +128,8 @@ See All Plans
 </div>
 <h2 class="text-center data-text ml-3 font-weight-bold p-color">Looking For Support.</h2>
 <div class="supp-boxes">
-<div class="col-sm-4 supp-box  mr-4 mb-4">
-<div class="supp-img">
+<div class="col-sm-4 supp-box  mr-4 mb-4 text-center">
+<div class="supp-img text-center">
 <img src="https://www.flaticon.com/svg/static/icons/svg/545/545234.svg" class="">
 </div>
 <div class="supp-textbox">
@@ -138,8 +138,8 @@ See All Plans
 <a href="https://billing.wizardnode.com/knowledgebase" class="supp-text">Read More <i class="fas fa-long-arrow-alt-right"></i></a>
 </div>
 </div>
-<div class="col-sm-4 supp-box  mr-4 mb-4">
-<div class="supp-img">
+<div class="col-sm-4 supp-box  mr-4 mb-4 text-center">
+<div class="supp-img text-center">
 <img src="https://www.flaticon.com/svg/static/icons/svg/916/916935.svg" class="">
 </div>
 <div class="supp-textbox">
@@ -150,8 +150,8 @@ See All Plans
 </div>
 </div>
 <div class="supp-boxes">
-<div class="col-sm-4 supp-box  mr-4 mb-4">
-<div class="supp-img">
+<div class="col-sm-4 supp-box  mr-4 mb-4 text-center">
+<div class="supp-img text-center">
 <img src="https://www.flaticon.com/svg/static/icons/svg/2950/2950777.svg" class="">
 </div>
 <div class="supp-textbox">
@@ -160,8 +160,8 @@ See All Plans
 <a href="#" class="supp-text">Read More <i class="fas fa-long-arrow-alt-right"></i></a>
 </div>
 </div>
-<div class="col-sm-4 supp-box  mr-4 mb-4">
-<div class="supp-img">
+<div class="col-sm-4 supp-box  mr-4 mb-4 text-center">
+<div class="supp-img text-center">
 <img src="https://www.flaticon.com/svg/static/icons/svg/2942/2942934.svg" class="">
 </div>
 <div class="supp-textbox">
@@ -180,17 +180,17 @@ See All Plans
 <div class="container-fluid ar-bg p-5">
 <h2 class="text-center font-weight-bold p-color">Our Partners</h2>
 <div class="row justify-content-center">
-<div class="col-xl-2 col-md-3 col-sm-4 col-9">
+<div class="col-xl-2 col-md-3 col-sm-4 col-9 mx-auto">
 <div class="brand-container-card">
 <img src="img/wizardnode-logo.png" alt="Slack" class="brand-img" style="padding: 1rem 0 2.5rem 0rem;height: 114px !important;">
 </div>
 </div>
-<div class="col-xl-2 col-md-3 col-sm-4 col-9">
+<div class="col-xl-2 col-md-3 col-sm-4 col-9 mx-auto">
 <div class="brand-container-card">
 <img src="https://nexril.net/assets/img/logo/nexril-white-150.png" alt="Slack" class="brand-img" style="width: 191px;height: 81px !important;padding-top: 13px;">
 </div>
 </div>
-<div class="col-xl-2 col-md-3 col-sm-4 col-9">
+<div class="col-xl-2 col-md-3 col-sm-4 col-9 mx-auto">
 <div class="brand-container-card">
 <svg width="200px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 454.1 102.2" style="enable-background:new 0 0 454.1 102.2;padding-top: 25px;" xml:space="preserve">
 <style type="text/css">

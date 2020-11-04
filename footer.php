@@ -1,7 +1,7 @@
 <footer>
   <div class="container py-5">
     <div class="row footer-row">
-      <div class="col-12 col-md"> <img class="footer-img" href="#" src="img/wizardnode-logo.png">  <small class="d-block text-muted">©2020 WizardNode LLC. <br />  All rights reserved.</small>
+      <div class="col-12 col-md"> <a href="index.php"> <img class="footer-img" href="index.php" src="img/wizardnode-logo.png"> </a>  <small class="d-block text-muted">©2020 WizardNode LLC. <br />  All rights reserved.</small>
       <img class="footer-payements" src="img/payemts.png">
     </div>
       <div class="col-6 col-md">
@@ -48,7 +48,7 @@
             <a class="text-muted" href="privacy-of-services.php">Privacy Policy</a>
           </li>
           <li>
-            <a class="text-muted" href="#">Contact Us</a>
+            <a class="text-muted" href="https://billing.wizardnode.com/contact.php">Contact Us</a>
           </li>
         </ul>
     </div>

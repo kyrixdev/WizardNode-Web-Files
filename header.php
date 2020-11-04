@@ -17,7 +17,7 @@
                 echo('Premium Web Hosting | Wizard Node');
             }
             elseif ( strpos($url, 'about-us.php') !== false ) {
-                echo('Oops 404! Page not found | Wizard Node');
+                echo('About Us| Wizard Node');
             }
             elseif ( strpos($url, 'terms-of-services.php') !== false ) {
                 echo('Terms of services | Wizard Node');
@@ -50,7 +50,7 @@
 <header>
    <!-- <img class="nav-background" src="img/header3.png"> -->
     <nav class="navbar navbar-expand-lg navbar-light">
-    <img class="navbar-brand" href="#" src="img/wizardnode-logo.png">
+    <a href="index.php"> <img class="navbar-brand" href="#" src="img/wizardnode-logo.png"> </a>
     <div class="collapse navbar-collapse show" id="navbarNav">
         <ul class="nav navbar-nav ml-auto topbar">
         <li class="nav-item active">
@@ -74,7 +74,7 @@
             <a class="nav-link" href="about-us.php">About</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Support Area</a>
+            <a class="nav-link" href="https://billing.wizardnode.com/knowledgebase">Support Area</a>
         </li>
         <li class="nav-item" style='padding: 5px;'>
              <a href="https://billing.wizardnode.com"><button type="button" class="btn btn-purple global-btn"><i class="fas fa-user-circle"></i>Client Area</button></a>

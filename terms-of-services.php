@@ -64,7 +64,7 @@ wizardnode.com is an E-Commerce Site.
 Cloud Hosting 
 </p>
 <div class="row py-5">
-  <div class="col-4">
+  <div class="col-5 col-md-4">
     <div class="list-group" id="list-tab" role="tablist">
       <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Privacy</a>
       <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Electronic Communications</a>
@@ -85,7 +85,7 @@ Cloud Hosting
       
     </div>
   </div>
-  <div class="col-8">
+  <div class="col-7 col-md-8">
     <div class="tab-content" id="nav-tabContent">
       <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
         Your use of wizardnode.com is subject to WizardNode LLC's Privacy Policy. Please review our

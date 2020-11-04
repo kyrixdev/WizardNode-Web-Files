@@ -597,6 +597,15 @@ footer{
     .pt-7{
         padding-top: 7rem;
     }
+    .px-7 {
+        padding: 0;
+    }
+    .about-img {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        margin-bottom: -7rem;
+    }
 }
 
 @media only screen and (min-width: 640px) {
@@ -780,6 +789,9 @@ footer{
     }
     .brand-container-card .brand-img {
         height: 108px !important;
+    }
+    .px-7{
+        padding: 0 23rem !important;
     }
 }
 
@@ -1603,7 +1615,7 @@ blockquote {
     width: 25%;
 }
 .supp-text{
-    color:  #0a1e43;
+    color:  #92478f;
 }
 .supp-text:hover{
     color:  #0a1e43;
