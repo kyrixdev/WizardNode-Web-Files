@@ -1,7 +1,34 @@
-.vps-features > .feature{
-    display: flex;
-    flex-flow: wrap;
-    padding: 1rem;
-    height: auto;
-}    
-    
+.body{
+    color: white;
+    background-color: #111111;
+}
+.main{
+    margin-top: -6rem;
+}
+.main p {
+        padding: 0 20rem;
+}
+img{
+    margin-top: -6rem;
+    width: 52%;
+}
+.btn-discord{
+        color: white;
+    background: #cf1b99;
+    box-shadow: 0 0 13px #cf1b99;
+}
+@media(max-width:640px){
+    .main p {
+        padding: 0;
+    }
+    .main{
+        margin-top: 0;
+    }
+    img{
+        width: 100%;
+    }
+    .h1, h1 {
+        font-size: 2rem;
+        padding-bottom: 1rem;
+    }
+}
